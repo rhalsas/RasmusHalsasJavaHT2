@@ -1,3 +1,5 @@
+//Rasmus Halsas
+//0358373
 
 public class Mainclass {
 
