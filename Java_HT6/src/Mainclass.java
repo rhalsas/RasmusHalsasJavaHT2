@@ -1,4 +1,7 @@
 
+//Rasmus Halsas
+//0358373
+
 public class Mainclass {
 	public static void main(String[] args) {
 	
